@@ -3,6 +3,8 @@
 ## Como utilizarlo?
 
 Descarga o clona el repositorio.
+Crea una base de datos llamada facerecognition y dentro una tabla llamada empleado.
+Cada empleado debe tener id, nombre y foto. (En foto hay que guardar un enlace de la foto)
 Ejecuta una terminal y sigue estos pasos:
 
 ```sh
